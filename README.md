@@ -3,5 +3,5 @@
 
 
 ## By. 
-Eday Alix González Manjarrés
+Eday Alix González Manjarrés <br />
 Alex Prada Pérez
