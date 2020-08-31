@@ -2,4 +2,6 @@
 ## Cypress
 
 
-## By. Eday Alix González Manjarrés
+## By. 
+Eday Alix González Manjarrés
+Alex Prada Pérez
